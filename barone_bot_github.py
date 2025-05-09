@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 import random
 
 # Substitua pelo seu token do Bot do Telegram
-TOKEN = "7523111564:AAHg_JDcJo81LLlBop40mtgyY8VhSQd0D3g"
+TOKEN="7523111564:AAHg_JDcJo81LLlBop40mtgyY8VhSQd0D3g"
 
 # Dicionário para armazenar os números de cada usuário
 usuarios = {}
